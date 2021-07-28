@@ -1,21 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-/******************************
-
-[Table of Contents]
-
-1. Fonts
-2. Body and some general stuff
-3. Header
-4. Menu
-5. Home
-6. Intro
-7. Services
-8. Pricing
-9. Why Choose Us
-10. CTA
-11. Footer
 
 
 ******************************/
@@ -400,7 +385,7 @@ section
 	right: -350px;
 	width: 350px;
 	height: 100vh;
-	background: #200e35;
+	background: #230c58;
 	z-index: 102;
 	padding-left: 30px;
 	padding-right: 30px;
@@ -517,10 +502,10 @@ section
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #4d1d85;
-    background-image: linear-gradient(to bottom, #200e35, #4d1d85);
-    background: #4d1d85;
-    background: linear-gradient(to bottom, #200e35, #4d1d85);
+	background-color: #5908f0;
+    background-image: linear-gradient(to bottom, #5c0cf1, #120353);
+    background: #5908f0;
+    background: linear-gradient(to bottom, #5806b6, #120353);
     z-index: 1;
 }
 .background_city
