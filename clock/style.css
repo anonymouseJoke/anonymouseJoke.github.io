@@ -10,7 +10,7 @@ html,body{
 body{
   display: grid;
   place-items: center;
-  background: #131419;
+  background: #1befc5;
 }
 .clock{
   background: #131419;
